@@ -65,7 +65,7 @@ This dashboard provides a comprehensive view of loan performance using KPIs and 
 - Home ownership analysis
 
 📸 Screenshot:  
-`Screenshots/Overview_Dashboard.png`
+![Overview Dashboard](Screenshots/Overview_Dashboard.png)
 
 ---
 
@@ -101,6 +101,32 @@ The dataset includes historical bank loan data with:
 ---
 
 ## 📁 Repository Structure
+```
+Bank-Loan-Analysis-Excel-Dashboard
+│
+├── dashboard/                           # Final Excel dashboard file
+│   └── bank_loan_analysis_dashboard.xlsx
+│
+├── dataset/                             # Raw and cleaned dataset used for analysis
+│   └── dataset.xlsx                        
+│
+├── design/                              # Dashboard planning and design sheet
+│   └── design_sheet.xlsx                         
+│
+├── documentation/                       # Project documentation and business understanding
+│   ├── domain_knowledge.docx            # Banking & loan domain concepts
+│   ├── problem_statement.docx           # Business problem and KPI requirements
+│   ├── sql_query.docx                   # Logic, calculations, and Excel formulas
+│   └── terminologies.docx               # Key data and banking terminologies
+│
+├── screenshots/                         # Dashboard preview images
+│   ├── summary_dashboard.png            # Summary dashboard screenshot
+│   └── overview_dashboard.png           # Overview dashboard screenshot
+│
+├── LICENSE                              # License information for the repository
+└── README.md                            # Project overview and instructions
+                 
+```
 
 
 ---
