@@ -52,7 +52,7 @@ This dashboard provides a comprehensive view of loan performance using KPIs and 
 - Average Interest Rate & DTI analysis
 
 📸 Screenshot:  
-`Screenshots/Summary_Dashboard.png`
+![Summary Dashboard](Screenshots/Summary_Dashboard.png)
 
 ---
 
