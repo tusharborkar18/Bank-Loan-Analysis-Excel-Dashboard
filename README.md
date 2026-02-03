@@ -69,13 +69,6 @@ This dashboard provides a comprehensive view of loan performance using KPIs and 
 
 ---
 
-### 3️⃣ Details Dashboard
-- Complete loan-level data view
-- Drill-down analysis
-- Acts as a single source of truth for detailed insights
-
----
-
 ## 🗂 Dataset
 The dataset includes historical bank loan data with:
 - Loan amount
